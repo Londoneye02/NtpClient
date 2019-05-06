@@ -9,7 +9,7 @@
     [{
 	  "name": "Time",
 	  "authors": "Paul Stoffregen",
-	  "version": "1.50"
+	  "version": "1.5"
 	},
 	{
 	  "name": "ESPAsyncUDP",
